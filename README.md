@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">Eu programo em:</h2>
+<h2 align="left">Tech</h2>
 
 ###
 
