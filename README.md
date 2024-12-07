@@ -1,8 +1,5 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="left">Olá, meu nome é Diego Figueiredo</p>
+<h1 align="left">Olá, meu nome é Diego Figueiredo</h1>
 
 ###
 
